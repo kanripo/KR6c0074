@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 25, No. 486
 #+PROPERTY: VOL 25
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS X
 #+PROPERTY: LASTPB <pb:KR6c0074_X_001-0207a> 
 #+PROPERTY: JUAN 1
 
@@ -44,7 +44,7 @@
 兄　徐從治肩虞父　徐光治孟𤏩父　仝訂¶
 無依道人徐昌治覲周父　纂¶
 男　徐升貞　徐乾貞　徐拱樞¶
-孫　徐頤貞　徐儲元　仝校¶
+孫　徐[(厂-一)*臣*頁]貞　徐儲元　仝校¶
 
 「金剛般若波羅蜜經」
 <pb:KR6c0074_X_001-0207c>¶
@@ -2065,7 +2065,7 @@
 信受奉行。」¶
 
 【此在祇園。說經巳畢。一切世間。天神。世人。與鬼神¶
-中之兇類。誰不懼輪迴苦海。欣然回頭向佛。佛法¶
+中之兇類。誰不[怡-台+(目/大)]輪迴苦海。欣然回頭向佛。佛法¶
 感人如此。¶
 
 記者記經巳畢。每說皆大歡喜。信受奉行。葢信受¶
